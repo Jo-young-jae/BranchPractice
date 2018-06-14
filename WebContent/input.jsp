@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-	index 화면 입니다.
+	input 화면입니다.
 </body>
 </html>
